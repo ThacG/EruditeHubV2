@@ -1,0 +1,5 @@
+-- Does not support Solara/Incognito!!!
+
+autoExecuteScript = true -- set to true/false if needed
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThacG/EruditeHubV2/main/adustytrip"))()
